@@ -10933,8 +10933,8 @@ p {
 }
 
 .cta {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: rgba(230, 167, 86, 0.9);
 }
 .cta .cta-inner {
@@ -10950,7 +10950,7 @@ p {
   bottom: -0.5rem;
   left: -0.5rem;
   right: -0.5rem;
-  border: 0.25rem solid rgba(255, 255, 255, 0.85);
+  border: 0.25rem solid rgba(255, 255, 255, 0.0);
   z-index: -1;
 }
 
